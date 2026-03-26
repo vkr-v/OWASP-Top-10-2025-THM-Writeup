@@ -1,4 +1,4 @@
-# OWASP-Top-10-2025-THM-Writeup
+# OWASP Top 10 2025 THM Writeup
 
 What is IAAA?
 What does IAAA stand for?
